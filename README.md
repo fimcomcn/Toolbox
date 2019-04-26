@@ -1,3 +1,3 @@
 # toolbox
 
-See https://toolbox.v-dk.com
+CORS Anywhere https://cors.v-dk.com
